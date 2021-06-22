@@ -32,12 +32,14 @@ Is it cross-platform ?
 ======================
 
 Accoarding to the discussion on stack overflow, it is suitable for both **Windows** and **Linux**,
-but I currently only tested it on Windows 10 with Java 1.8 (Corretto 1.8.0_292).
+but I currently only tested it on Windows 10 with Java 1.8 (`Corretto 1.8.0_292`_).
+
+.. _`Corretto 1.8.0_292`: https://aws.amazon.com/corretto
 
 Are there any documentation ?
 =============================
 
-The Javadoc comments is enough.
+The Javadoc comments are already enough.
 
 License
 =======
