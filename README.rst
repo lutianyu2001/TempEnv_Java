@@ -16,7 +16,7 @@ very importantly.
 
 Luckily, there are some brilliant fellows found `hacks to change environment variable for current JVM`_.
 
-It is improtant to state that: We can only modify the copy of environment variable in the JVM, 
+It is important to state that: We can only modify the copy of environment variable in the JVM, 
 and we can never modify the system environment variable only by Java (without invoing other programs).
 
 .. _`hacks to change environment variable for current JVM`: https://stackoverflow.com/questions/318239
