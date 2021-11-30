@@ -12,7 +12,7 @@ there's still many packages only accept environment variable.
 
 Unfortunately, Java itself didn\'t provide the function for modifying the system environment variable,
 as it violents the idea "cross-platform". Therefore, finding out a way to set environment variable inside the JVM is
-very importantly. 
+very important. 
 
 Luckily, there are some brilliant fellows found `hacks to change environment variable for current JVM`_.
 
